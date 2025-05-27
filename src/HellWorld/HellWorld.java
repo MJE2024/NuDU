@@ -7,6 +7,8 @@ public class HellWorld {
         System.out.println("Hell World");
         System.out.println("And Hello Dogs");
 
+        System.out.println("Hello Cats");
+
 
     }
 
